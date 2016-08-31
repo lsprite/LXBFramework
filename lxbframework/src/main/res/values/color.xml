@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 通用颜色 -->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#1497f7</color>
+    <color name="transparent">#00000000</color>
+    <!-- baseStyle 颜色-->
+    <color name="windowbackground">#f6f6f6</color>
+    <color name="textcolorhint">#b0b0b0</color>
+    <color name="textcolor">#202020</color>
+    <!-- MyDialog样式 -->
+    <color name="dialog_main_color">#ffff4300</color>
+    <color name="dialog_main_color16">#ff4300</color>
+    <color name="dialog_bottom_txt_press">#ff888888</color>
+    <color name="dialog_bottom_txt_press16">#888888</color>
+    <color name="dialog_cannel_txt_press">#dcdcdc</color>
+    <color name="dialog_cannel_txt_press16">#ffdcdcdc</color>
+    <color name="dialoghint">#b0b0b0</color>
+    <!-- WheelView -->
+    <color name="dialog_white">#FFFFFF</color>
+    <color name="dialog_blue">#FF0074FF</color>
+    <color name="dialog_darkblue">#FF0066CC</color>
+    <color name="dialog_gray">#FFA1A1A1</color>
+    <color name="dialog_lightblue">#FF99CCFF</color>
+    <color name="progress_darkblue">#FF165CBC</color>
+    <color name="progress_darkgray">#FF747674</color>
+    <color name="progress_lightblue">#FF85B0E9</color>
+    <color name="progress_lightgray">#FFBEBEBE</color>
+    <color name="querydetail_popupwindow_bg">#efefef</color>
+    <color name="querydetail_popupwindow_groupbg">#dcdbdb</color>
+    <color name="querydetail_popupwindow_groupborder">#cfcece</color>
+    <color name="querydetail_popupwindow_groupname">#9d9b9b</color>
+    <color name="querydetail_popupwindow_item_fg">#dedede</color>
+    <color name="querydetail_popupwindow_contentname">#323232</color>
+    <color name="shadow_start">#80000000</color>
+    <color name="shadow_end">#00000000</color>
+</resources>

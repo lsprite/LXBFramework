@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- wheel -->
+    <dimen name="wheel_text_size">18dp</dimen>
+    <dimen name="title_bar_height">44dp</dimen>
+    <dimen name="new_title_bar_button_font_size">11sp</dimen>
+    <dimen name="new_title_bar_font_size">20sp</dimen>
+    <dimen name="new_backup_btn_font_size">20sp</dimen>
+    <dimen name="report_count_text">16sp</dimen>
+    <dimen name="select_button_height">38dp</dimen>
+    <dimen name="dongtai_add_view_height">80dp</dimen>
+    <dimen name="dongtai_add_view_height_out">76dp</dimen>
+    <dimen name="dongtai_add_view_height_in">56dp</dimen>
+    <dimen name="letter_listview">30dp</dimen>
+    <dimen name="bottom_height">118dp</dimen>
+    <dimen name="sdfa">25dip</dimen>
+    <dimen name="adsf">25dip</dimen>
+    <dimen name="popmenu_width">122.0dip</dimen>
+    <dimen name="popmenu_height">258.0dip</dimen>
+    <dimen name="popmenu_yoff">0.0dip</dimen>
+    <dimen name="popmenu_xoff">-88.0dip</dimen>
+    <dimen name="adsferdia">5.0dip</dimen>
+    <dimen name="adsfewdfgpadding">4.0dip</dimen>
+    <dimen name="home_grid_padding">0.0dip</dimen>
+    <dimen name="main_menu_height">170.0dip</dimen>
+    <dimen name="main_menu_width">110.0dip</dimen>
+    <dimen name="main_menu_margin_top">70.0dip</dimen>
+    <dimen name="main_menu_margin_right">15.0dip</dimen>
+    <dimen name="main_home_pager_point_dia">5.0dip</dimen>
+    <dimen name="main_home_pager_point_padding">2.0dip</dimen>
+    <dimen name="main_home_grid_padding">20.0dip</dimen>
+    <dimen name="msg_pop_tv_text_size">10.0sp</dimen>
+    <dimen name="msg_pop_tv_rl_padding">6dp</dimen>
+    <dimen name="sdafwerwe">20sp</dimen>
+    <dimen name="welcome_point_padding">2.0dip</dimen>
+    <dimen name="smsbar_lable_text">12sp</dimen>
+    <dimen name="smsbar_col_height">0.3dp</dimen>
+    <!-- progresswheel -->
+    <dimen name="textsize_progresswheel">16dp</dimen>
+</resources>

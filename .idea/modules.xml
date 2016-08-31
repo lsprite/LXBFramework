@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LXBFramework.iml" filepath="$PROJECT_DIR$/LXBFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camerademo/camerademo.iml" filepath="$PROJECT_DIR$/camerademo/camerademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameralibrary/cameralibrary.iml" filepath="$PROJECT_DIR$/cameralibrary/cameralibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegvideo/ffmpegvideo.iml" filepath="$PROJECT_DIR$/ffmpegvideo/ffmpegvideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegvideodemo/ffmpegvideodemo.iml" filepath="$PROJECT_DIR$/ffmpegvideodemo/ffmpegvideodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frescodemo/frescodemo.iml" filepath="$PROJECT_DIR$/frescodemo/frescodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frescolib/frescolib.iml" filepath="$PROJECT_DIR$/frescolib/frescolib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glidedemo/glidedemo.iml" filepath="$PROJECT_DIR$/glidedemo/glidedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageloaderdemo/imageloaderdemo.iml" filepath="$PROJECT_DIR$/imageloaderdemo/imageloaderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxbframework/lxbframework.iml" filepath="$PROJECT_DIR$/lxbframework/lxbframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp3recorderdemo/mp3recorderdemo.iml" filepath="$PROJECT_DIR$/mp3recorderdemo/mp3recorderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp3recorderlibrary/mp3recorderlibrary.iml" filepath="$PROJECT_DIR$/mp3recorderlibrary/mp3recorderlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+    </modules>
+  </component>
+</project>

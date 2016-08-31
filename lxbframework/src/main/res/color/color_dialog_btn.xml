@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" android:color="@color/dialog_cannel_txt_press16"/>
+    <item android:color="@color/dialog_main_color16"/>
+
+</selector>

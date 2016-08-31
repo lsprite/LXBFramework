@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LxbFramework</string>
+    <!-- wheelView对话框 -->
+    <string name="Dialog_OtherButton">其 他</string>
+    <string name="Dialog_CheckedAll">全选</string>
+    <string name="Dialog_ProgressRate">0/100</string>
+    <string name="Dialog_ProgressPerent">0%</string>
+    <string name="Dialog_ProgressMessage">数据加载中…</string>
+    <string name="Dialog_IconDescription">对话框标题图标</string>
+    <string name="Dialog_Title">对话框标题</string>
+    <string name="wheel_title_date">选择日期</string>
+    <string name="wheel_title_time">选择时间</string>
+    <string name="Year">年</string>
+    <string name="Month">月</string>
+    <string name="Day">日</string>
+    <string name="Hour">时</string>
+    <string name="Minute">分</string>
+    <string name="Second">秒</string>
+    <string name="Times">次</string>
+    <string name="Public_Submit">确定</string>
+    <string name="Public_OK">确定</string>
+    <string name="Public_Confirm">确定</string>
+    <string name="Public_Cancel">取消</string>
+    <string name="Public_Exit">退出</string>
+</resources>

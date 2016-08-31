@@ -1,0 +1,58 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* README.md
+* crbuild\
+* crbuild\update.sh
+* crbuild\vm-build.md
+* crbuild\vm-build.sh
+* crbuild\vm-setup.sh
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => chromeview\src\main\AndroidManifest.xml
+* assets\ => chromeview\src\main\assets\
+* libs\armeabi-v7a\libwebviewchromium.so => chromeview\src\main\jniLibs\armeabi-v7a\libwebviewchromium.so
+* libs\guava_javalib.jar => chromeview\libs\guava_javalib.jar
+* libs\jsr_305_javalib.jar => chromeview\libs\jsr_305_javalib.jar
+* res\ => chromeview\src\main\res\
+* src\ => chromeview\src\main\java\
+* src\com\googlecode\eyesfree\braille\display\BrailleDisplayProperties.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\display\BrailleDisplayProperties.aidl
+* src\com\googlecode\eyesfree\braille\display\BrailleInputEvent.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\display\BrailleInputEvent.aidl
+* src\com\googlecode\eyesfree\braille\display\IBrailleService.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\display\IBrailleService.aidl
+* src\com\googlecode\eyesfree\braille\display\IBrailleServiceCallback.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\display\IBrailleServiceCallback.aidl
+* src\com\googlecode\eyesfree\braille\selfbraille\ISelfBrailleService.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\selfbraille\ISelfBrailleService.aidl
+* src\com\googlecode\eyesfree\braille\selfbraille\WriteData.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\selfbraille\WriteData.aidl
+* src\com\googlecode\eyesfree\braille\translate\ITranslatorService.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\translate\ITranslatorService.aidl
+* src\com\googlecode\eyesfree\braille\translate\ITranslatorServiceCallback.aidl => chromeview\src\main\aidl\com\googlecode\eyesfree\braille\translate\ITranslatorServiceCallback.aidl
+* src\org\chromium\base\ActivityState.template => chromeview\src\main\resources\org\chromium\base\ActivityState.template
+* src\org\chromium\content\browser\PageTransitionTypes.template => chromeview\src\main\resources\org\chromium\content\browser\PageTransitionTypes.template
+* src\org\chromium\content\common\IChildProcessCallback.aidl => chromeview\src\main\aidl\org\chromium\content\common\IChildProcessCallback.aidl
+* src\org\chromium\content\common\IChildProcessService.aidl => chromeview\src\main\aidl\org\chromium\content\common\IChildProcessService.aidl
+* src\org\chromium\content\common\ResultCodes.template => chromeview\src\main\resources\org\chromium\content\common\ResultCodes.template
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

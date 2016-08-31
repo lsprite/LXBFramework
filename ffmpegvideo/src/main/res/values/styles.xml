@@ -1,0 +1,25 @@
+<resources>
+
+
+
+    <style name="ffmpegviewo_dialog_loading_noDim" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 无边框 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 没有标题 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 背景是否半透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 背景是否模糊 -->
+    </style>
+    <!-- FFmpegRecorderAnim -->
+    <style name="FFmpegRecorderAnim" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/push_bottom_ffmpeg_in</item>
+    </style>
+
+    <style name="FFmpegRecorderAnimBottom" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/FFmpegRecorderAnim</item>
+    </style>
+
+</resources>
