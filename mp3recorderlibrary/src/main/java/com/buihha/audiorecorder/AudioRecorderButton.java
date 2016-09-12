@@ -145,10 +145,11 @@ public class AudioRecorderButton extends Button {
 
         switch (action) {
             case MotionEvent.ACTION_DOWN:
+                System.out.println("MotionEvent.ACTION_DOWN:" + isRecording);
                 changeState(STATE_RECORDING);
                 break;
             case MotionEvent.ACTION_MOVE:
-
+                System.out.println("MotionEvent.ACTION_MOVE:" + isRecording);
                 if (isRecording) {
                     // 如果想要取消，根据x,y的坐标看是否需要取消
                     if (wantToCancle(x, y)) {
@@ -160,30 +161,44 @@ public class AudioRecorderButton extends Button {
 
                 break;
             case MotionEvent.ACTION_UP:
-                if (!mReady) {
-                    reset();
-                    return super.onTouchEvent(event);
-                }
-                if (!isRecording || mTime < 0.6f) {
-                    mDialogManager.tooShort();
-                    mAudioManager.cancel();
-                    mHandler.sendEmptyMessageDelayed(MSG_DIALOG_DIMISS, 1000);// 延迟显示对话框
-                } else if (mCurrentState == STATE_RECORDING) { // 正在录音的时候，结束
-                    mDialogManager.dimissDialog();
-                    mAudioManager.release();
-                    if (audioFinishRecorderListener != null) {
-                        // audioFinishRecorderListener.onFinish(mTime,
-                        // mAudioManager.getCurrentFilePath());
-                        // 取mp3文件
-                        audioFinishRecorderListener.onFinish(mTime,
-                                mAudioManager.getCurrentFilePath());
+                System.out.println("MotionEvent.ACTION_UP:" + isRecording);
+                if (isRecording) {
+                    if (!mReady) {
+                        reset();
+                        return super.onTouchEvent(event);
                     }
+                    if (!isRecording || mTime < 0.6f) {
+                        mDialogManager.tooShort();
+                        mAudioManager.cancel();
+                        mHandler.sendEmptyMessageDelayed(MSG_DIALOG_DIMISS, 1000);// 延迟显示对话框
+                    } else if (mCurrentState == STATE_RECORDING) { // 正在录音的时候，结束
+                        mDialogManager.dimissDialog();
+                        mAudioManager.release();
+                        if (audioFinishRecorderListener != null) {
+                            // audioFinishRecorderListener.onFinish(mTime,
+                            // mAudioManager.getCurrentFilePath());
+                            // 取mp3文件
+                            audioFinishRecorderListener.onFinish(mTime,
+                                    mAudioManager.getCurrentFilePath());
+                        }
 
-                } else if (mCurrentState == STATE_WANT_TO_CANCEL) { // 想要取消
-                    mDialogManager.dimissDialog();
-                    mAudioManager.cancel();
+                    } else if (mCurrentState == STATE_WANT_TO_CANCEL) { // 想要取消
+                        mDialogManager.dimissDialog();
+                        mAudioManager.cancel();
+                    }
+                    reset();
+                } else {
+                    System.out.println("MotionEvent.ACTION_UP:isRecording is false");
+                    mHandler.postDelayed(new Runnable() {
+                        @Override
+                        public void run() {
+                            mDialogManager.dimissDialog();
+                            mAudioManager.cancel();
+                            reset();
+                        }
+                    }, 1000);
+
                 }
-                reset();
                 break;
 
         }
