@@ -51,7 +51,6 @@ public class AudioTest {
         // TODO Auto-generated method stub
         String dir = Environment.getExternalStorageDirectory()
                 + "/Android/data/" + context.getPackageName() + "/files/mp3";
-        System.out.println("�����洢·��:" + dir);
         mAudioManager = AudioManager.getInstance(dir);
     }
 
