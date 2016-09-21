@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/360floatwindowdemo" />
             <option value="$PROJECT_DIR$/camerademo" />
             <option value="$PROJECT_DIR$/cameralibrary" />
             <option value="$PROJECT_DIR$/ffmpegvideo" />
@@ -24,25 +25,7 @@
             <option value="$PROJECT_DIR$/okhttputils" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/camerademo" />
-            <option value="$PROJECT_DIR$/cameralibrary" />
-            <option value="$PROJECT_DIR$/ffmpegvideo" />
-            <option value="$PROJECT_DIR$/ffmpegvideodemo" />
-            <option value="$PROJECT_DIR$/fragmentdemo" />
-            <option value="$PROJECT_DIR$/frescodemo" />
-            <option value="$PROJECT_DIR$/frescolib" />
-            <option value="$PROJECT_DIR$/glidedemo" />
-            <option value="$PROJECT_DIR$/imageloaderdemo" />
-            <option value="$PROJECT_DIR$/lxbframework" />
-            <option value="$PROJECT_DIR$/mp3recorderdemo" />
-            <option value="$PROJECT_DIR$/mp3recorderlibrary" />
-            <option value="$PROJECT_DIR$/okhttpdemo" />
-            <option value="$PROJECT_DIR$/okhttputils" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

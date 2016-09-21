@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/360floatwindowdemo/360floatwindowdemo.iml" filepath="$PROJECT_DIR$/360floatwindowdemo/360floatwindowdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/LXBFramework.iml" filepath="$PROJECT_DIR$/LXBFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/camerademo/camerademo.iml" filepath="$PROJECT_DIR$/camerademo/camerademo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cameralibrary/cameralibrary.iml" filepath="$PROJECT_DIR$/cameralibrary/cameralibrary.iml" />

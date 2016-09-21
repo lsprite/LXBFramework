@@ -1,1 +1,1 @@
-include ':lxbframework', ':frescolib', ':ffmpegvideo', ':frescodemo', ':mp3recorderlibrary', ':mp3recorderdemo', ':ffmpegvideodemo', ':cameralibrary', ':okhttpdemo', ':okhttputils', ':camerademo', ':glidedemo', ':fragmentdemo', 'imageloaderdemo'
+include ':lxbframework', ':frescolib', ':ffmpegvideo', ':frescodemo', ':mp3recorderlibrary', ':mp3recorderdemo', ':ffmpegvideodemo', ':cameralibrary', ':okhttpdemo', ':okhttputils', ':camerademo', ':glidedemo', ':fragmentdemo', ':360floatwindowdemo', 'imageloaderdemo'
