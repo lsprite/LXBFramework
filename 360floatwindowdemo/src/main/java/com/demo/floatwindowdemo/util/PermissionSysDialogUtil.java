@@ -215,6 +215,7 @@ public class PermissionSysDialogUtil {
         isFirstIn = preferences.getBoolean("isFirstIn", true);
         SharedPreferences.Editor editor = preferences.edit();
         editor.putBoolean("isFirstIn", false);
+        editor.commit();
         return isFirstIn;
     }
 }
