@@ -1,4 +1,6 @@
-package com.zhy.utils;
+package com.lxb.selectimglibrary.adapter;
+
+import java.util.List;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -6,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
-import java.util.List;
+import com.lxb.selectimglibrary.utils.ViewHolder;
 
 public abstract class CommonAdapter<T> extends BaseAdapter
 {

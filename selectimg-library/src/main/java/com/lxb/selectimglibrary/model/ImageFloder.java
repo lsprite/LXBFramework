@@ -1,4 +1,4 @@
-package com.zhy.bean;
+package com.lxb.selectimglibrary.model;
 
 public class ImageFloder
 {

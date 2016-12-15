@@ -1,4 +1,6 @@
-package com.zhy.utils;
+package com.lxb.selectimglibrary.popwindow;
+
+import java.util.List;
 
 import android.content.Context;
 import android.graphics.drawable.BitmapDrawable;
@@ -6,8 +8,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnTouchListener;
 import android.widget.PopupWindow;
-
-import java.util.List;
 
 public abstract class BasePopupWindowForListView<T> extends PopupWindow
 {
