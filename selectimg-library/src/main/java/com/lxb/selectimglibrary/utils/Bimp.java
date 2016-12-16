@@ -16,7 +16,7 @@ import java.util.ArrayList;
  */
 public class Bimp {
     public static int max = 0;
-    public static int MAX = 16;
+    public static int MAX = 9;
 
     public static ArrayList<ImageBean> getTempSelectBitmap() {
         return tempSelectBitmap;

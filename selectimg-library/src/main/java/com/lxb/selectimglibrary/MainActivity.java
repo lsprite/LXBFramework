@@ -20,8 +20,6 @@ import com.lxb.selectimglibrary.utils.BitmapUtils;
 import com.lxb.selectimglibrary.utils.FileUtils;
 import com.lxb.selectimglibrary.view.NoScrollGridView;
 
-import java.io.File;
-
 public class MainActivity extends Activity {
 
     /*不滚动的GridView*/
@@ -43,6 +41,7 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         instence = this;
+        Bimp.MAX=9;
         setContentView(R.layout.main);
         initViews();
     }
