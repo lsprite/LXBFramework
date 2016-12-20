@@ -59,10 +59,14 @@ public class AudioRecorderButton extends Button {
             switch (msg.what) {
                 case MSG_AUDIO_PREPARED:
                     // 显示對話框在开始录音以后
-                    mDialogManager.showRecordingDialog();
-                    isRecording = true;
-                    // 开启一个线程
-                    new Thread(mGetVoiceLevelRunnable).start();
+                    try {
+                        mDialogManager.showRecordingDialog();
+                        isRecording = true;
+                        // 开启一个线程
+                        new Thread(mGetVoiceLevelRunnable).start();
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
                     break;
 
                 case MSG_VOICE_CHANGED:
