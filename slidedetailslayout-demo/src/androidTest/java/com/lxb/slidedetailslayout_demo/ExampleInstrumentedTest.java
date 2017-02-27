@@ -1,4 +1,4 @@
-package com.example.a360floatwindowdemo;
+package com.lxb.slidedetailslayout_demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.a360floatwindowdemo", appContext.getPackageName());
+        assertEquals("com.lxb.slidedetailslayout_demo", appContext.getPackageName());
     }
 }
