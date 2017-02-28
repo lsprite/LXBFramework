@@ -17,7 +17,7 @@ import android.webkit.WebViewClient;
 
 /**
  * webView.setWebViewClient(new SslPinningWebViewClient(
- * WebActivity.this) {
+ * WebActivity.this) {}
  */
 public class SslPinningWebViewClient extends WebViewClient {
 
