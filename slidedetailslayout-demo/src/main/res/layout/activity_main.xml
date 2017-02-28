@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     app:default_panel="front"
     app:duration="500"
-    app:percent="0.1">
+    app:percent="0.2">
 
     <!-- 上面 -->
     <ScrollView
