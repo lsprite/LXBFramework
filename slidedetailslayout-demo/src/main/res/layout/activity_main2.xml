@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.bleu.widget.slidedetails.SlideDetailsLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/slidedetails"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:default_panel="front"
+    app:duration="500"
+    app:percent="0.2">
+
+    <!-- 上面 -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.lxb.slidedetailslayout_demo.MyListView
+                android:id="@android:id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:cacheColorHint="@android:color/transparent" />
+
+            <include layout="@layout/slidedetails_marker_default_layout" />
+        </LinearLayout>
+    </ScrollView>
+    <!-- 下面 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_a"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="myClick"
+                android:text="A" />
+
+            <Button
+                android:id="@+id/btn_b"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="myClick"
+                android:text="B" />
+        </LinearLayout>
+
+        <com.lxb.view.pulltorefreshview.PullToRefreshView
+            android:id="@+id/pull_refresh_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.lxb.slidedetailslayout_demo.DecoratorViewPager
+                        android:id="@+id/viewpager"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+                </LinearLayout>
+            </ScrollView>
+        </com.lxb.view.pulltorefreshview.PullToRefreshView>
+    </LinearLayout>
+</cn.bleu.widget.slidedetails.SlideDetailsLayout>
