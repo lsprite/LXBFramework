@@ -23,6 +23,8 @@ public class BaseActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+//        写在一个会一直存在的activity的onCreate里
+//        android.os.Debug.startMethodTracing("Entertainment");
     }
 
     //设置字体大小不随手机设置而变
