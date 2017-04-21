@@ -2,9 +2,10 @@
 
 ---
 类似小米手机短信姓名输入框
-https://github.com/pchmn/MaterialChipsInput
+*https://github.com/pchmn/MaterialChipsInput
 <br>![](https://github.com/pchmn/MaterialChipsInput/blob/master/docs/demo2.gif)
-
+<br>
+*https://github.com/lsprite/LXBFramework/tree/master/CloudEdittext
 ---
 标题栏效果
 https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior
@@ -75,9 +76,11 @@ android7.0开机动画
 https://github.com/Cleveroad/Android-Marshmallow-Boot-Animation
 <br>![](https://github.com/Cleveroad/Android-Marshmallow-Boot-Animation/blob/master/images/animation_demo.gif)
 ---
-仿360日历
-https://github.com/haibuzou/Calendar365
+日历
+*https://github.com/haibuzou/Calendar365
 <br>![](https://raw.githubusercontent.com/haibuzou/Calendar365/master/art/ScreenShot.gif)
+<br>
+*https://github.com/lsprite/LXBFramework/tree/master/lxbframework/src/main/java/com/lxb/view/calendar
 ---
 小窗口化
 https://github.com/googlesamples/android-PictureInPicture
