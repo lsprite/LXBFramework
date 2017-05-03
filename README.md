@@ -438,3 +438,6 @@ https://github.com/shaohui10086/BottomDialog
 <br>https://github.com/zhihu/Matisse
 ---多边形
 <br>https://github.com/stkent/PolygonDrawingUtil
+---
+WindowManager.addView()实现悬浮窗口播放视频
+<br>http://blog.csdn.net/guzuoi/article/details/52254344
