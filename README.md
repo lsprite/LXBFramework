@@ -339,6 +339,9 @@ html textview
 <br>https://github.com/ssseasonnn/RxDownload
 <br>![](https://raw.githubusercontent.com/ssseasonnn/RxDownload/master/gif/basic_download.gif)
 ---
+多线程多文件断点续传下载+通知栏控制
+<br>https://github.com/liaozhoubei/MultiDownload
+---
 阅读器(看小说)
 <br>https://github.com/FolioReader/FolioReader-Android
 <br>https://github.com/JustWayward/BookReader
