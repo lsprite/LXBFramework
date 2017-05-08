@@ -55,6 +55,7 @@ AutoLinkTextView
 ---
 指纹
 <br>https://github.com/JesusM/FingerprintManager
+<br>https://github.com/uccmawei/FingerprintIdentify
 ---
 颗粒动画
 <br>https://github.com/glomadrian/Grav
@@ -151,6 +152,7 @@ progressbar奇葩动画
 <br>![](https://github.com/myjoybar/android-calendar-view/blob/master/screenshots/screenshot.gif)
 <br>https://github.com/TUBB/CalendarSelector
 <br>![](https://github.com/TUBB/CalendarSelector/blob/master/art/1.png)
+<br>https://github.com/shichaohui/EasyCalendar
 ---
 时间选择
 <br>https://github.com/philliphsu/BottomSheetPickers
@@ -300,6 +302,7 @@ google Hover
 <br>![](https://github.com/BelooS/ChipsLayoutManager/blob/master/images/demo.gif)
 <br>https://github.com/kai0masanari/Forcelayout
 <br>![](https://raw.githubusercontent.com/kai0masanari/Forcelayout/master/art/image3.gif)
+<br>https://github.com/akshay2211/Oblique
 ---
 简单轻量级高阶函数库
 <br>https://github.com/TangXiaoLv/HFunc
@@ -444,3 +447,10 @@ https://github.com/shaohui10086/BottomDialog
 ---
 WindowManager.addView()实现悬浮窗口播放视频
 <br>http://blog.csdn.net/guzuoi/article/details/52254344
+---
+General IM UI Components. Android/iOS Ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS。
+<br>https://github.com/jpush/aurora-imui
+---
+android选择器类库之整合
+<br>http://www.toutiao.com/i6413499000455954946/
+
