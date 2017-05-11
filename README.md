@@ -459,7 +459,7 @@ android选择器类库之整合
 ---
 超好用下拉刷新上拉载入更多
 <br>https://github.com/chrisbanes/Android-PullToRefresh
-` `` 
+```
 listview = (PullToRefreshListView) findViewById(R.id.listview);
 		listview.setMode(Mode.BOTH);
 		listview.setOnRefreshListener(new OnRefreshListener2() {
@@ -482,4 +482,4 @@ listview = (PullToRefreshListView) findViewById(R.id.listview);
 				getInfo(false, false);
 			}
 		});
-` `` 
+```
