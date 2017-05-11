@@ -453,4 +453,33 @@ General IM UI Components. Android/iOS Ready. 通用 IM 聊天 UI 组件，已经
 ---
 android选择器类库之整合
 <br>http://www.toutiao.com/i6413499000455954946/
+---
+仿支付宝咻一咻
+<br>https://github.com/Alex-Cin/RippleWaveView
+---
+超好用下拉刷新上拉载入更多
+<br>https://github.com/chrisbanes/Android-PullToRefresh
+` `` 
+listview = (PullToRefreshListView) findViewById(R.id.listview);
+		listview.setMode(Mode.BOTH);
+		listview.setOnRefreshListener(new OnRefreshListener2() {
 
+			@Override
+			public void onPullDownToRefresh(PullToRefreshBase refreshView) {
+				// TODO Auto-generated method stub
+				refreshView.getLoadingLayoutProxy().setRefreshingLabel("正在加载");
+				refreshView.getLoadingLayoutProxy().setPullLabel("下拉加载更多");
+				refreshView.getLoadingLayoutProxy().setReleaseLabel("释放开始加载");
+				getInfo(true, false);
+			}
+
+			@Override
+			public void onPullUpToRefresh(PullToRefreshBase refreshView) {
+				// TODO Auto-generated method stub
+				refreshView.getLoadingLayoutProxy().setRefreshingLabel("正在加载");
+				refreshView.getLoadingLayoutProxy().setPullLabel("上拉加载更多");
+				refreshView.getLoadingLayoutProxy().setReleaseLabel("释放开始加载");
+				getInfo(false, false);
+			}
+		});
+` `` 
