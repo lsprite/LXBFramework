@@ -483,3 +483,6 @@ listview = (PullToRefreshListView) findViewById(R.id.listview);
 			}
 		});
 ```
+---
+android计步功能
+<br>https://github.com/xfmax/BasePedo
