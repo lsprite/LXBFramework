@@ -486,3 +486,9 @@ listview = (PullToRefreshListView) findViewById(R.id.listview);
 ---
 android计步功能
 <br>https://github.com/xfmax/BasePedo
+---
+二维码
+<br>https://github.com/SumiMakito/AwesomeQRCode
+---
+粒子动画显示文字
+<br>https://github.com/Yasic/ParticleTextView
