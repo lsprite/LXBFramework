@@ -267,6 +267,7 @@ adapter选中动画
 ---
 emoji表情包
 <br>https://github.com/vdurmont/emoji-java
+<br>https://github.com/googlesamples/android-EmojiCompat
 ---
 CoordinatorLayout
 https://github.com/hugeterry/CoordinatorTabLayout/blob/master/README_CN.md
