@@ -502,3 +502,7 @@ koltin
 Badge TextView
 <br>https://github.com/nekocode/Badge
 <br>![](https://github.com/nekocode/Badge/blob/master/art/preview.png)
+---
+RotatingText
+<br>https://github.com/sdsmdg/RotatingText
+<br>![](https://github.com/sdsmdg/RotatingText/blob/master/screens/gif_cover.gif)
