@@ -506,3 +506,5 @@ Badge TextView
 RotatingText
 <br>https://github.com/sdsmdg/RotatingText
 <br>![](https://github.com/sdsmdg/RotatingText/blob/master/screens/gif_cover.gif)
+---HtmlNative
+<br>https://github.com/hsllany/HtmlNative
