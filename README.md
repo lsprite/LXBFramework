@@ -217,6 +217,7 @@ https://github.com/binIoter/GuideView
 <br>https://github.com/SpongeBobSun/Prodigal
 <br>https://github.com/harjot-oberai/MusicDNA
 <br>https://github.com/wangchenyan/PonyMusic
+<br>https://github.com/Taishi-Y/MusicIndicator
 ---
 换肤
 <br>https://github.com/ximsfei/Android-skin-support
