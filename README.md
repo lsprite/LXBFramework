@@ -10,6 +10,7 @@
 标题栏效果
 <br>https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior
 <br>![](https://cloud.githubusercontent.com/assets/5366959/24594266/c59667bc-1801-11e7-840c-97588658a8ae.gif)
+<br>https://github.com/Kelin-Hong/TranslucentBar
 ---
 线性图表组件
 <br>https://github.com/whataa/SuitLines
@@ -66,6 +67,8 @@ AutoLinkTextView
 圆形进度条
 <br>https://github.com/yingLanNull/CircleAlarmTimerView
 <br>![](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/2.gif)
+---进度条
+<br>https://github.com/JessYanCoding/ProgressManager
 ---
 仪表盘
 <br>https://github.com/anastr/SpeedView
@@ -312,6 +315,8 @@ google Hover
 展开动画扩展
 <br>https://github.com/zagum/Android-ExpandIcon
 <br>![](https://github.com/zagum/Android-ExpandIcon/blob/master/art/expand_icon_demo.gif)
+<br>https://github.com/developer-shivam/FeaturedRecyclerView
+<br>![](https://github.com/developer-shivam/FeaturedRecyclerView/blob/master/art/sample_GIF.gif)
 ---
 折叠ExpandableTextView
 <br>https://github.com/Chen-Sir/ExpandableTextView
@@ -513,3 +518,6 @@ HtmlNative
 ---
 图片压缩
 <br>http://www.jianshu.com/p/e9e1db845c21
+---
+时间轴
+<br>https://github.com/vivian8725118/TimeLine
