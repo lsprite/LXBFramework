@@ -262,6 +262,7 @@ adapter选中动画
 ---
 bilibili直播
 <br>https://github.com/Bilibili/ijkplayer
+<br>编译：http://blog.csdn.net/u010072711/article/details/51354834
 ---
 计划任务
 <br>https://github.com/zhouchaoyuan/excelPanel
