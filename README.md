@@ -260,6 +260,9 @@ adapter选中动画
 大牛直播
 <br>https://github.com/daniulive/SmarterStreaming
 ---
+bilibili直播
+<br>https://github.com/Bilibili/ijkplayer
+---
 计划任务
 <br>https://github.com/zhouchaoyuan/excelPanel
 <br>![](https://raw.githubusercontent.com/zhouchaoyuan/excelPanel/master/app/src/main/assets/roomFormDemoAdjustHeight.gif)
