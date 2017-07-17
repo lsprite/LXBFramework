@@ -25,6 +25,12 @@
 图片剪裁
 <br>https://github.com/steelkiwi/cropiwa
 ---
+大图加载
+<br>https://github.com/Piasy/BigImageViewer
+<br>![](https://github.com/Piasy/BigImageViewer/blob/master/art/fresco_big_image_viewer_demo.gif)
+---图片加载器，支持GIF，手势缩放以及分块显示超大图片
+<br>https://github.com/panpf/sketch
+---
 alibaba多页面切换场景
 <br>https://github.com/alibaba/UltraViewPager/blob/master/README-ch.md
 <br>![](https://github.com/alibaba/UltraViewPager/blob/master/pics/pics1.gif)
@@ -43,6 +49,8 @@ IconSwitch切换按钮
 <br>![](https://github.com/AlexLiuSheng/BadgeView/blob/master/library/version1.0.5.png)
 <br>https://github.com/matrixxun/MaterialBadgeTextView
 <br>![](https://github.com/matrixxun/MaterialBadgeTextView/blob/master/MaterialBadgeTextView/art/screen_cap.png)
+<br>https://github.com/qstumn/BadgeView (自由定制外观、拖拽消除)
+<br>![](https://github.com/qstumn/BadgeView/blob/master/demo_gif.gif?raw=true)
 ---
 TextView播放文字
 <br>https://github.com/andyxialm/TyperEditText
@@ -57,9 +65,6 @@ AutoLinkTextView
 指纹
 <br>https://github.com/JesusM/FingerprintManager
 <br>https://github.com/uccmawei/FingerprintIdentify
----
-颗粒动画
-<br>https://github.com/glomadrian/Grav
 ---
 圆形百分比进度
 <br>https://github.com/Flepsik/ProgressRingView
@@ -79,6 +84,7 @@ AutoLinkTextView
 ---
 tableLayout表单
 <br>https://github.com/Cleveroad/AdaptiveTableLayout
+<br>https://github.com/qstumn/VerticalTabLayout (垂直纵向的TabLayout、轻松创建纵向导航)
 ---
 ShadowImageView图片阴影效果
 <br>https://github.com/yingLanNull/ShadowImageView
@@ -87,6 +93,8 @@ ShadowImageView图片阴影效果
 高档切换效果
 <br>https://github.com/yarolegovich/SlidingRootNav
 <br>![](https://github.com/yarolegovich/SlidingRootNav/blob/master/art/sample.gif)
+<br>https://github.com/woxingxiao/SlidingUpPanelLayout
+<br>![](https://github.com/woxingxiao/SlidingUpPanelLayout/blob/master/screenshot/demo2.gif)
 ---
 <br>https://github.com/romandanylyk/PageIndicatorView
 <br>![](https://raw.githubusercontent.com/romandanylyk/PageIndicatorView/master/assets/preview_anim_drop.gif)
@@ -143,6 +151,15 @@ progressbar奇葩动画
 <br>![](https://raw.githubusercontent.com/xudeveloper/VideoLoadingView/master/docs/screen.gif)
 <br>https://github.com/BakerJQ/Android-InfiniteCards
 <br>![](https://github.com/BakerJQ/Android-InfiniteCards/blob/master/screenshot/sample.gif)
+---
+高档动画
+<br>https://github.com/tarek360/RichPath
+---
+颗粒动画
+<br>https://github.com/glomadrian/Grav
+---
+粒子动画显示文字
+<br>https://github.com/Yasic/ParticleTextView
 ---
 日历
 <br>https://github.com/haibuzou/Calendar365
@@ -411,10 +428,6 @@ BigBang
 <br>https://github.com/baoyongzhang/BigBang
 <br>![](https://github.com/baoyongzhang/BigBang/blob/master/design/bigbang_demo.gif)
 ---
-大图加载
-<br>https://github.com/Piasy/BigImageViewer
-<br>![](https://github.com/Piasy/BigImageViewer/blob/master/art/fresco_big_image_viewer_demo.gif)
----
 花式提交按钮
 <br>https://github.com/SparkYuan/SubmitButton
 <br>![](https://github.com/SparkYuan/SubmitButton/blob/master/pic/submitbutton.gif)
@@ -501,9 +514,6 @@ android计步功能
 ---
 二维码
 <br>https://github.com/SumiMakito/AwesomeQRCode
----
-粒子动画显示文字
-<br>https://github.com/Yasic/ParticleTextView
 ---
 koltin
 <br>https://www.gitbook.com/book/wangjiegulu/kotlin-for-android-developers-zh/details
