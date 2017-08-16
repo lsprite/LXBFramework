@@ -74,6 +74,7 @@ AutoLinkTextView
 <br>![](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/2.gif)
 ---进度条
 <br>https://github.com/JessYanCoding/ProgressManager
+<br>https://github.com/MarcinMoskala/ArcSeekBar
 ---
 仪表盘
 <br>https://github.com/anastr/SpeedView
