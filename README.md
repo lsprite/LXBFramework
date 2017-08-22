@@ -72,7 +72,8 @@ AutoLinkTextView
 圆形进度条
 <br>https://github.com/yingLanNull/CircleAlarmTimerView
 <br>![](https://github.com/yingLanNull/CircleAlarmTimerView/blob/master/show/2.gif)
----进度条
+---
+进度条
 <br>https://github.com/JessYanCoding/ProgressManager
 <br>https://github.com/MarcinMoskala/ArcSeekBar
 ---
@@ -454,8 +455,10 @@ GiftCard
 <br>![](https://github.com/UFreedom/FloatingView/blob/master/images/demo.gif)
 ---
 底部dialog
-https://github.com/shaohui10086/BottomDialog
-<br><br>![](https://github.com/shaohui10086/BottomDialog/blob/master/preview/bottom_dialog_share.gif)
+<br>https://github.com/shaohui10086/BottomDialog
+<br>![](https://github.com/shaohui10086/BottomDialog/blob/master/preview/bottom_dialog_share.gif)
+<br>https://github.com/AdityaAnand1/Morphing-Material-Dialogs
+<br>![](https://github.com/AdityaAnand1/Morphing-Material-Dialogs/blob/master/screenies/1.gif)
 ---
 图片压缩工具库
 <br>https://github.com/shaohui10086/AdvancedLuban/blob/master/README_ZH.md
