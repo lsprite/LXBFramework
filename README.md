@@ -156,6 +156,9 @@ progressbar奇葩动画
 <br>https://github.com/shazam/reflow-animator
 <br>![](https://github.com/shazam/reflow-animator/blob/master/sample/reflow-animator.gif)
 ---
+跑马灯
+<br>https://github.com/gongwen/MarqueeViewLibrary
+---
 高档动画
 <br>https://github.com/tarek360/RichPath
 ---
