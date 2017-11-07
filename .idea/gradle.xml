@@ -9,10 +9,17 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/360floatwindowdemo" />
+            <option value="$PROJECT_DIR$/BGARefreshLayout-demo" />
+            <option value="$PROJECT_DIR$/BGARefreshLayout-demo2" />
+            <option value="$PROJECT_DIR$/BGARefreshLayout-library" />
+            <option value="$PROJECT_DIR$/SignView-sample" />
             <option value="$PROJECT_DIR$/camerademo" />
             <option value="$PROJECT_DIR$/cameralibrary" />
+            <option value="$PROJECT_DIR$/clickarea-master" />
+            <option value="$PROJECT_DIR$/com.ctrlsoft.ctrlsoftupdateservice" />
             <option value="$PROJECT_DIR$/ffmpegvideo" />
             <option value="$PROJECT_DIR$/ffmpegvideodemo" />
+            <option value="$PROJECT_DIR$/fileselect-library" />
             <option value="$PROJECT_DIR$/fragmentdemo" />
             <option value="$PROJECT_DIR$/frescodemo" />
             <option value="$PROJECT_DIR$/frescolib" />
@@ -21,8 +28,13 @@
             <option value="$PROJECT_DIR$/lxbframework" />
             <option value="$PROJECT_DIR$/mp3recorderdemo" />
             <option value="$PROJECT_DIR$/mp3recorderlibrary" />
+            <option value="$PROJECT_DIR$/multitypelibrary" />
+            <option value="$PROJECT_DIR$/multitypesample" />
             <option value="$PROJECT_DIR$/okhttpdemo" />
             <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/pulltorefreshview" />
+            <option value="$PROJECT_DIR$/selectimg-library" />
+            <option value="$PROJECT_DIR$/zxing" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
