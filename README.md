@@ -19,6 +19,9 @@
 <br>https://github.com/ZuYun/Jgraph
 <br>![](https://raw.githubusercontent.com/mychoices/Jgraph/master/gif/2.gif)
 ---
+饼图
+<br>https://github.com/razerdp/AnimatedPieView
+---
 类似iphone输入密码解锁
 <br>https://github.com/kevalpatel2106/PasscodeView
 ---
