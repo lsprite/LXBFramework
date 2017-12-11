@@ -574,3 +574,4 @@ HtmlNative
 手绘地图
 <br>https://github.com/lemberg/mappwidget
 <br>http://blog.csdn.net/column/details/mappwidgetqxy.html
+<br>http://blog.csdn.net/u012812482/article/category/6158543
