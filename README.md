@@ -19,6 +19,9 @@
 <br>https://github.com/ZuYun/Jgraph
 <br>![](https://raw.githubusercontent.com/mychoices/Jgraph/master/gif/2.gif)
 ---
+饼图
+<br>https://github.com/razerdp/AnimatedPieView
+---
 类似iphone输入密码解锁
 <br>https://github.com/kevalpatel2106/PasscodeView
 ---
@@ -567,3 +570,16 @@ HtmlNative
 ---
 字体
 <br>https://github.com/shashkiranr/MultiFontViewKotlin-Android
+---
+手绘地图mAppWidget
+<br>https://github.com/lemberg/mappwidget
+<br>http://blog.csdn.net/column/details/mappwidgetqxy.html
+<br>http://blog.csdn.net/u012812482/article/category/6158543
+<br>http://www.67tgb.com/?p=615
+<br>http://www.cnblogs.com/Joanna-Yan/category/722804.html
+---
+arcgis for android
+<br>https://esri.bintray.com/arcgis/
+---
+高仿 bilibili安卓客户端
+<br>https://github.com/yoyiyi/bilisoleil
