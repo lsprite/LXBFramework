@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Color;
 import android.graphics.PixelFormat;
+import android.os.Build;
 import android.os.Handler;
 import android.view.Gravity;
 import android.view.View;
@@ -77,7 +78,12 @@ public class XToast {
 				params.format = PixelFormat.TRANSLUCENT;
 				params.windowAnimations = R.style.Animation_Toast;
 				params.y = dip2px(mContext, 64);
-				params.type = WindowManager.LayoutParams.TYPE_PHONE;
+				int SDK_CODE = Build.VERSION.SDK_INT;
+				if (SDK_CODE < 19 || SDK_CODE >= 24) {
+					params.type = WindowManager.LayoutParams.TYPE_PHONE;
+				} else {
+					params.type = WindowManager.LayoutParams.TYPE_TOAST;
+				}
 				wm.addView(mNextView, params);
 				new Handler().postDelayed(new Runnable() {
 
