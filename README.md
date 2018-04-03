@@ -563,7 +563,7 @@ HtmlNative
 ---
 手势操作activity
 <br>https://github.com/gongwen/SwipeBackLayout
-<br>(https://https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot1.gif)
+<br>(https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot1.gif)
 ---
 贝塞尔曲线绘制出的魔炫背景
 <br>https://github.com/OCNYang/ContourView
@@ -583,3 +583,7 @@ arcgis for android
 ---
 高仿 bilibili安卓客户端
 <br>https://github.com/yoyiyi/bilisoleil
+---
+Rings
+<br>https://github.com/lalongooo/rings
+<br>(https://camo.githubusercontent.com/f0d26959284b3e49c6cdf01c3b31af2e5ad5104e/68747470733a2f2f692e696d6775722e636f6d2f426f50337449792e706e67)
