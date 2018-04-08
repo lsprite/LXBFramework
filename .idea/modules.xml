@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/BGARefreshLayout-library/BGARefreshLayout-library.iml" filepath="$PROJECT_DIR$/BGARefreshLayout-library/BGARefreshLayout-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/LXBFramework.iml" filepath="$PROJECT_DIR$/LXBFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/SignView-sample/SignView-sample.iml" filepath="$PROJECT_DIR$/SignView-sample/SignView-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-pulltorefresh-library/android-pulltorefresh-library.iml" filepath="$PROJECT_DIR$/android-pulltorefresh-library/android-pulltorefresh-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/camerademo/camerademo.iml" filepath="$PROJECT_DIR$/camerademo/camerademo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cameralibrary/cameralibrary.iml" filepath="$PROJECT_DIR$/cameralibrary/cameralibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/clickarea-master/clickarea-master.iml" filepath="$PROJECT_DIR$/clickarea-master/clickarea-master.iml" />
