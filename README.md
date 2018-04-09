@@ -11,6 +11,7 @@
 <br>https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior
 <br>![](https://cloud.githubusercontent.com/assets/5366959/24594266/c59667bc-1801-11e7-840c-97588658a8ae.gif)
 <br>https://github.com/Kelin-Hong/TranslucentBar
+<br>https://github.com/massivedisaster/ArcToolbarView
 ---
 线性图表组件
 <br>https://github.com/whataa/SuitLines
@@ -42,6 +43,8 @@ IconSwitch切换按钮
 <br>https://github.com/polyak01/IconSwitch
 <br>https://github.com/BeppiMenozzi/TriStateToggleButton
 <br>![](https://github.com/BeppiMenozzi/TriStateToggleButton/blob/master/images/tstb.gif)
+<br>https://github.com/GwonHyeok/StickySwitch
+<br>![](https://github.com/GwonHyeok/StickySwitch/blob/master/preview.gif)
 ---
 任意位置角标
 <br>https://github.com/volders/Badger
@@ -185,6 +188,8 @@ progressbar奇葩动画
 <br>https://github.com/shichaohui/EasyCalendar
 <br>https://github.com/Applandeo/Material-Calendar-View
 <br>https://github.com/AppliKeySolutions/CosmoCalendar
+<br>://github.com/shrikanth7698/Collapsible-Calendar-View-Android
+<br>![](https://camo.githubusercontent.com/55c53de24d4161bdf9c0b727dfec7664c969d76d/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d31744f6f63716e53307049365630372d4a524f74653052783776714d71466d5067)
 ---
 时间选择
 <br>https://github.com/philliphsu/BottomSheetPickers
@@ -586,4 +591,14 @@ arcgis for android
 ---
 Rings
 <br>https://github.com/lalongooo/rings
-<br>(https://camo.githubusercontent.com/f0d26959284b3e49c6cdf01c3b31af2e5ad5104e/68747470733a2f2f692e696d6775722e636f6d2f426f50337449792e706e67)
+<br>![](https://camo.githubusercontent.com/f0d26959284b3e49c6cdf01c3b31af2e5ad5104e/68747470733a2f2f692e696d6775722e636f6d2f426f50337449792e706e67)
+---
+标尺
+<br>https://github.com/kevalpatel2106/android-ruler-picker
+<br>![](https://github.com/kevalpatel2106/android-ruler-picker/blob/master/.github/ruler-view-profile-demo-small.gif)
+---
+AndroidMaterialDialog
+<br>https://github.com/michael-rapp/AndroidMaterialDialog
+---
+RuntimePermission
+https://github.com/florent37/RuntimePermission
