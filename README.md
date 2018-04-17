@@ -602,3 +602,7 @@ AndroidMaterialDialog
 ---
 RuntimePermission
 https://github.com/florent37/RuntimePermission
+---
+Facebook加载阴影
+https://github.com/ethanhua/Skeleton
+<br>![](https://github.com/ethanhua/Skeleton/blob/master/screenshots/01.gif)
