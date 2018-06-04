@@ -33,6 +33,12 @@
 饼图
 <br>https://github.com/razerdp/AnimatedPieView
 ---
+股票K线
+<br>https://github.com/tifezh/KChartView
+<br>![](https://github.com/tifezh/KChartView/blob/master/img/demo.gif)
+<br>https://github.com/donglua/JZAndroidChart
+<br>![](https://github.com/donglua/JZAndroidChart/blob/master/screenshots/screenshot-kline-chart.gif)
+---
 类似iphone输入密码解锁
 <br>https://github.com/kevalpatel2106/PasscodeView
 ---
