@@ -19,6 +19,12 @@
 图表组件
 <br>https://github.com/ZuYun/Jgraph
 <br>![](https://raw.githubusercontent.com/mychoices/Jgraph/master/gif/2.gif)
+<br>https://github.com/xcltapestry/XCL-Charts
+<br>![](https://raw.githubusercontent.com/xcltapestry/XCL-Charts/master/screens/barpiechart.png)
+<br>https://github.com/lecho/hellocharts-android
+<br>![](https://github.com/lecho/hellocharts-android/blob/master/screens/scr_dependecy_preview.gif)
+<br>https://github.com/PhilJay/MPAndroidChart
+<br>![](https://camo.githubusercontent.com/a9eaa5fc7fb6c1e70b22acd09385055e0f5c4fe7/68747470733a2f2f7261772e6769746875622e636f6d2f5068696c4a61792f4d5043686172742f6d61737465722f73637265656e73686f74732f73696d706c6564657369676e5f6c696e656368617274342e706e67)
 ---
 饼图
 <br>https://github.com/razerdp/AnimatedPieView
