@@ -633,3 +633,7 @@ Facebook加载阴影
 星芒图
 <br>https://github.com/panpf/spider-web-score-view
 <br>![](https://raw.githubusercontent.com/panpf/spider-web-score-view/master/docs/sample.png)
+---
+钱
+<br>https://github.com/fabiomsr/MoneyTextView
+<br>![](https://raw.githubusercontent.com/fabiomsr/MoneyTextView/develop/art/screenshot1.png)
