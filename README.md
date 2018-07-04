@@ -162,6 +162,8 @@ android7.0开机动画
 <br>![](https://camo.githubusercontent.com/41d6dc7159f7a925efee4007a9b4b2e69da8b1c2/68747470733a2f2f696d616765732e74686f75676874626f742e636f6d2f626c6f672d76656c6c756d2d696d6167652d75706c6f6164732f6a5a707677715552386d757968444954355353755f7374656e63696c2e676966)
 <br>https://github.com/race604/WaveLoading
 <br>![](https://github.com/race604/WaveLoading/blob/master/screenshots/screenshot.gif)
+<br>https://github.com/NoEndToLF/Gif-Load-ReTry-Refresh (支持gif图片的Load反馈框)
+<br>![](https://raw.githubusercontent.com/NoEndToLF/Gif-Load-ReTry-Refresh/master/imgs/activity_failed.gif)
 ---
 progressbar奇葩动画
 <br>https://github.com/droidchef/tinglingsquares
