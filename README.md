@@ -624,8 +624,12 @@ AndroidMaterialDialog
 <br>https://github.com/michael-rapp/AndroidMaterialDialog
 ---
 RuntimePermission
-https://github.com/florent37/RuntimePermission
+<br>https://github.com/florent37/RuntimePermission
 ---
 Facebook加载阴影
-https://github.com/ethanhua/Skeleton
+<br>https://github.com/ethanhua/Skeleton
 <br>![](https://github.com/ethanhua/Skeleton/blob/master/screenshots/01.gif)
+---
+通过贝塞尔曲线绘制出的魔炫背景
+<br>https://github.com/OCNYang/ContourView
+<br>![](https://camo.githubusercontent.com/0486ba683582ef55ee284c0681f358d8c8b6a64f/687474703a2f2f6f6262753672316d692e626b742e636c6f7564646e2e636f6d2f6769746875622f636f6e746f7572766965772f7265666572656e63652e706e67)
