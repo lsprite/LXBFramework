@@ -111,7 +111,6 @@ tableLayout表单
 <br>https://github.com/qstumn/VerticalTabLayout (垂直纵向的TabLayout、轻松创建纵向导航)
 <br>https://github.com/huangyanbin/smartTable (一款android自动生成表格框架)
 <br>![](https://github.com/huangyanbin/smartTable/blob/master/img/table.gif)
-
 ---
 ShadowImageView图片阴影效果
 <br>https://github.com/yingLanNull/ShadowImageView
@@ -281,6 +280,7 @@ https://github.com/binIoter/GuideView
 <br>https://github.com/harjot-oberai/MusicDNA
 <br>https://github.com/wangchenyan/PonyMusic
 <br>https://github.com/Taishi-Y/MusicIndicator
+<br>https://github.com/wangchenyan/LrcView (歌词)
 ---
 换肤
 <br>https://github.com/ximsfei/Android-skin-support
