@@ -637,3 +637,7 @@ Facebook加载阴影
 钱
 <br>https://github.com/fabiomsr/MoneyTextView
 <br>![](https://raw.githubusercontent.com/fabiomsr/MoneyTextView/develop/art/screenshot1.png)
+---
+仿支付宝未加载灰色
+<br>https://github.com/florent37/FiftyShadesOf
+<br>![](https://raw.githubusercontent.com/florent37/FiftyShadesOf/master/media/cross.gif)
