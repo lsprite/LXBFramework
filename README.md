@@ -29,6 +29,8 @@
 <br>![](https://github.com/diogobernardino/WilliamChart/blob/master/art/2.3.0-3.gif)
 <br>https://github.com/bmarrdev/android-DecoView-charting
 <br>![](https://github.com/bmarrdev/android-DecoView-charting/blob/master/art/decoview_header.png)
+<br>https://github.com/dyguests/FlameBarChart
+<br>![](https://github.com/dyguests/FlameBarChart/blob/master/graphics/multi_sample.gif)
 ---
 饼图
 <br>https://github.com/razerdp/AnimatedPieView
@@ -641,3 +643,13 @@ Facebook加载阴影
 仿支付宝未加载灰色
 <br>https://github.com/florent37/FiftyShadesOf
 <br>![](https://raw.githubusercontent.com/florent37/FiftyShadesOf/master/media/cross.gif)
+---
+特殊键盘
+<br>https://github.com/linkaipeng/NumberCodeView
+<br>![](https://raw.githubusercontent.com/linkaipeng/NumberCodeView/master/screenshots/screenshot02.png)
+<br>https://github.com/parkingwang/vehicle-keyboard-android
+<br>![](https://github.com/parkingwang/vehicle-keyboard-android/blob/master/pwk_keyboard_usage.gif)
+---
+炫酷底部菜单
+<br>https://github.com/tommybuonomo/morph-bottom-navigation
+<br>![](https://user-images.githubusercontent.com/15737675/41735760-d633e706-758a-11e8-9f30-3f07c8ed4371.gif)
