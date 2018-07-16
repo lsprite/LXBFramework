@@ -653,3 +653,6 @@ Facebook加载阴影
 炫酷底部菜单
 <br>https://github.com/tommybuonomo/morph-bottom-navigation
 <br>![](https://user-images.githubusercontent.com/15737675/41735760-d633e706-758a-11e8-9f30-3f07c8ed4371.gif)
+---
+面部识别
+<br>https://github.com/husaynhakeem/android-face-detector
