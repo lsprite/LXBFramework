@@ -263,12 +263,14 @@ progressbar奇葩动画
 <br>https://github.com/yangchaojiang/yjPlay
 ---
 仿ofo注册步骤
-https://github.com/guangzq/StepDialog
+<br>https://github.com/guangzq/StepDialog
 <br>![](https://github.com/guangzq/StepDialog/blob/master/gif/stepdialog.gif)
 ---
 遮罩式的导航页
-https://github.com/binIoter/GuideView
+<br>https://github.com/binIoter/GuideView
 <br>![](https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img1.png)
+<br>https://github.com/huburt-Hu/NewbieGuide
+<br>![](https://github.com/huburt-Hu/NewbieGuide/raw/master/screenshoot/device-2017-08-09-161703.png)
 ---
 焦点效果
 <br>https://github.com/faruktoptas/FancyShowCaseView
