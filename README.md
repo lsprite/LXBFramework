@@ -658,3 +658,7 @@ Facebook加载阴影
 ---
 面部识别
 <br>https://github.com/husaynhakeem/android-face-detector
+---
+颜色选择
+<br>https://github.com/duanhong169/ColorPicker
+<br>![](https://github.com/duanhong169/ColorPicker/blob/master/art/screen-record.gif)
