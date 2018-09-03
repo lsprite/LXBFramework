@@ -666,3 +666,7 @@ Facebook加载阴影
 一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域。
 <br>https://github.com/pqpo/SmartCamera
 <br>![](https://github.com/pqpo/SmartCamera/blob/master/art/smartcamera_demo.gif)
+---
+一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库。
+<br>https://github.com/liuruoze/EasyPR
+
