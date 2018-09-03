@@ -662,3 +662,7 @@ Facebook加载阴影
 颜色选择
 <br>https://github.com/duanhong169/ColorPicker
 <br>![](https://github.com/duanhong169/ColorPicker/blob/master/art/screen-record.gif)
+---
+一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域。
+<br>https://github.com/pqpo/SmartCamera
+<br>![](https://github.com/pqpo/SmartCamera/blob/master/art/smartcamera_demo.gif)
