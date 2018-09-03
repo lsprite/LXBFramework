@@ -669,4 +669,10 @@ Facebook加载阴影
 ---
 一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库。
 <br>https://github.com/liuruoze/EasyPR
-
+---
+自定义组织机构图 & 层次图
+<br>https://github.com/onlyloveyd/LazyOrgView
+<br>![](https://github.com/onlyloveyd/LazyOrgView/blob/master/screenshot/1.png)
+---
+今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
+https://github.com/JessYanCoding/AndroidAutoSize
