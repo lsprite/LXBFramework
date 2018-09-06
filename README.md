@@ -124,6 +124,10 @@ ShadowImageView图片阴影效果
 <br>https://github.com/woxingxiao/SlidingUpPanelLayout
 <br>![](https://github.com/woxingxiao/SlidingUpPanelLayout/blob/master/screenshot/demo2.gif)
 ---
+实现Android窗帘拉开折叠效果
+<br>https://github.com/Android500/AwesomeDrawer
+<br>![](https://github.com/Android500/AwesomeDrawer/blob/master/effect/mutil_curtain_views.gif)
+---
 <br>https://github.com/romandanylyk/PageIndicatorView
 <br>![](https://raw.githubusercontent.com/romandanylyk/PageIndicatorView/master/assets/preview_anim_drop.gif)
 ---
@@ -271,6 +275,10 @@ progressbar奇葩动画
 <br>![](https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img1.png)
 <br>https://github.com/huburt-Hu/NewbieGuide
 <br>![](https://github.com/huburt-Hu/NewbieGuide/raw/master/screenshoot/device-2017-08-09-161703.png)
+---
+SpringMenu滑动菜单
+<br>https://github.com/peng8350/JPSpringMenu
+<br>![](https://github.com/peng8350/JPSpringMenu/blob/master/art/main.gif)
 ---
 焦点效果
 <br>https://github.com/faruktoptas/FancyShowCaseView
@@ -676,3 +684,4 @@ Facebook加载阴影
 ---
 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
 https://github.com/JessYanCoding/AndroidAutoSize
+
