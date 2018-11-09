@@ -685,6 +685,8 @@ Facebook加载阴影
 自定义组织机构图 & 层次图
 <br>https://github.com/onlyloveyd/LazyOrgView
 <br>![](https://github.com/onlyloveyd/LazyOrgView/blob/master/screenshot/1.png)
+<br>https://github.com/skydoves/AndroidVeil
+<br>![](https://user-images.githubusercontent.com/24237865/47777293-c736d780-dd37-11e8-9107-5242746a7b8c.gif)
 ---
 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
 https://github.com/JessYanCoding/AndroidAutoSize
