@@ -7,6 +7,10 @@
 <br>https://github.com/lsprite/LXBFramework/tree/master/CloudEdittext
 <br>https://github.com/quiin/UnifiedContactPicker
 ---
+自动调整Textview
+<br>https://github.com/amilcar-sr/JustifiedTextView
+<br>![](https://raw.githubusercontent.com/amilcar-sr/amilcar-sr.github.io/master/JustifiedTextView/landscape.png)
+---
 标题栏效果
 <br>https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior
 <br>![](https://cloud.githubusercontent.com/assets/5366959/24594266/c59667bc-1801-11e7-840c-97588658a8ae.gif)
@@ -690,4 +694,7 @@ Facebook加载阴影
 ---
 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
 https://github.com/JessYanCoding/AndroidAutoSize
-
+---
+图片动画
+<br>https://github.com/armcha/ElasticView
+<br>![](https://github.com/armcha/ElasticView/blob/master/screens/first.gif)
